@@ -1,0 +1,6 @@
+Entity,Type,SEBI_Compliance_Level,Penalty,Disclosure_Delay,Regulatory_Action,Material_Disclosures_Made,Last_Disclosure_Date
+EcoFinTech Pvt Ltd,Startup,Partially Compliant,10 lakh INR,Delayed,Fine,5,15-03-2025
+MedNext AI Solutions,Startup,Partially Compliant,10 lakh INR,Delayed,SEBI Warning,6,09-04-2025
+Reliance Industries Ltd,Listed,Proactive,Not Applicable,No Delay,SEBI Warning,10,10-02-2025
+Tata Consultancy Services,Listed,Non-Compliant,25 lakh INR,Delayed,None,2,31-01-2025
+Infosys Ltd,Listed,Non-Compliant,25 lakh INR,No Delay,None,2,15-03-2025
